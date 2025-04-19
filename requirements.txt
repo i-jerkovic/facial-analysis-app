@@ -1,5 +1,5 @@
 
-streamlit
-deepface
-opencv-python-headless
-pillow
+streamlit==1.38.0
+deepface==0.0.93
+opencv-python-headless==4.10.0.84
+pillow==10.4.0
